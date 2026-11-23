@@ -1,4 +1,4 @@
-# Codex 汉化包下载安装教程（ChatGPT / Codex 桌面端中文）
+# Codex/ChatGPT 汉化包汉化工具下载 中文版配置
 
 > **官方下载页：[www.sz003.com/hanhua](https://www.sz003.com/hanhua)**
 > Windows / macOS（Intel 芯片 · Apple 芯片）三个安装包都在下载页 · 完全免费，不用注册登录
@@ -8,6 +8,14 @@
 本仓库为「Codex 汉化包」的下载导航与资料镜像，内容整理自 [Codex中文站](https://www.sz003.com/) 的 [Codex 汉化专题](https://www.sz003.com/hanhua)。
 
 汉化包是一个把 ChatGPT 和 Codex 官方桌面客户端换成中文界面的小工具。它不改官方客户端的文件，只在启动之前把客户端里本来就有的中文资源打开。仓库收录下载入口、安装步骤、汉化包导入方式、版本适配说明和常见问题，共 5 篇教程，每篇文章都保留官网原文链接，可在线阅读，也可 `git clone` 到本地查阅。
+
+## 视频演示
+
+[![汉化演示（点开看界面怎么变中文）](https://cdn.laoshoucun.com/web/codex/2026/11/hanhua_intro_20261116_poster.jpg)](https://www.sz003.com/hanhua)
+
+点上面这张封面图，会打开官网汉化专题页，视频就在页面里直接播。
+
+> 视频与安装包都放在官方 CDN 上、不进仓库，官方更新之后你看到的一直是当前版本。
 
 ## 下载入口
 
