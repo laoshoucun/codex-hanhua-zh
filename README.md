@@ -11,7 +11,7 @@
 
 ## 视频演示
 
-[![汉化演示（点开看界面怎么变中文）](https://cdn.laoshoucun.com/web/codex/2026/11/hanhua_intro_20261116_poster.jpg)](https://www.sz003.com/hanhua)
+[![汉化演示（点开看界面怎么变中文）](cover.jpg)](https://www.sz003.com/hanhua)
 
 点上面这张封面图，会打开官网汉化专题页，视频就在页面里直接播。
 
